@@ -1,2 +1,2 @@
-alert('asdasdaasdasdasd')
+alert('asdasdasdasd')
 // asdasdasd
